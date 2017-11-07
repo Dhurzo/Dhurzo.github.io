@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+#Setup
+title:        Dhurzo web page
+tagline:      Security and developement
+baseurl:      ""
+paginate:     1
+
+#Gems
+gems:
+ - jekyll-paginate
+
+#Others
+markdown:	kramdown
+title:        Dhurzo web page
+tagline:      Security and developement
+baseurl:	""  
